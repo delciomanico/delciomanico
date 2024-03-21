@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="1682187647534.jpg" />
+<img align="center" style="margin-bottom:100px" width=100% height=200px  src="1682187647534.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
