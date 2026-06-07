@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class Monarca:
@@ -58,7 +58,7 @@ class Monarca:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
