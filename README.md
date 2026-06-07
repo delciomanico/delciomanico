@@ -25,7 +25,7 @@ const monarca = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
